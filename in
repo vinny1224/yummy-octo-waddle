@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+            }
+            
+            body {
+                text-align: center;
+                background: url("http://assets.nydailynews.com/polopoly_fs/1.1542852!/img/httpImage/image.jpg_gen/derivatives/article_970/178891861.jpg");
+                 -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+                color:white;
+                
+        
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Help me get better at coding </h1>
+        <a href="mailto: vcls350@gmail.com">vcls350@gmail.com</a>
+        <p>the blue underlined words is to email me so you can send me info how to code or webstie on how to learn code. Here are some codes I need a lot of help in is, Javascript, css, jquery, and angular Js. Here are some codes I need to learn like one more thing and I know everything, html. </p>
+        <img 
+    </body>
+   
+</html>
